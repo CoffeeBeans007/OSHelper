@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: OS-Helper
+Version: 0.1
+Summary: A directory director package
+Home-page: https://github.com/CoffeeBeans007/OSHelper.git
+Author: Thomas Vaudescal
+Author-email: jeanchristophegaudreau@hotmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE

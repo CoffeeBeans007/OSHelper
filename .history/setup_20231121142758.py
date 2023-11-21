@@ -8,7 +8,7 @@ setuptools.setup(
      name='OS_Helper',  
      version='0.1',
      scripts=['OS_Helper'] ,
-     author="Jean-Christophe Gaudreau",
+     author="coffeebeans007",
      author_email="jeanchristophegaudreau@hotmail.com",
      description="A directory director package",
      long_description=long_description,
